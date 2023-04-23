@@ -1,0 +1,18 @@
+table{
+    border: 1px solid;
+}
+td{
+    border: 1px solid;
+}
+tr{
+    background-color: beige;
+}
+.red{
+    background-color: red;
+}
+.invisible{
+    opacity: 0;
+}
+.blue{
+    background-color: blue;
+}
